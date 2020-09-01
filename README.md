@@ -1,5 +1,6 @@
 # Technocolab_machine_learning_intern_project
 
+## We have to classify whether person has Perkinson's disease or not
 
 Process followed in the mini Project:
   1. Load the data
